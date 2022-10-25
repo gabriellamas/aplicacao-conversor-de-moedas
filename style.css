@@ -1,5 +1,5 @@
 body {
-  background-color: #F9FAFC;
+  background-color: rgb(32, 32, 32);
 }
 
 .container {
@@ -7,9 +7,9 @@ body {
 }
 
 .converted-value {
-  color: #452B4E;
+  color: #fff;
 }
 
 .conversion-precision {
-  color: #452B4E;
+  color: #fff;
 }
